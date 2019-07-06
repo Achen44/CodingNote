@@ -1,8 +1,9 @@
-##LongestSubstring within k distinct characters & Fruit into Baskets
+## LongestSubstring within k distinct characters & Fruit into Baskets
 https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 https://leetcode.com/problems/fruit-into-baskets/
     For longestSubstring, the input is a string, while Fruit into Baskets, input is integer.
     General Solution:
+        ```Java Solution:
         public int solution(String s, int k) {
             if(s == null || s.length() == 0 || k <= 0) {
                 return 0;
@@ -23,3 +24,4 @@ https://leetcode.com/problems/fruit-into-baskets/
             }
             return res;
         }
+        ```
