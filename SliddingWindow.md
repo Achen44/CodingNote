@@ -1,4 +1,5 @@
 ## LongestSubstring within k distinct characters & Fruit into Baskets
+https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 https://leetcode.com/problems/fruit-into-baskets/
 
