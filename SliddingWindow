@@ -1,4 +1,4 @@
-#LongestSubstring within k distinct characters & Fruit into Baskets
+#   LongestSubstring within k distinct characters & Fruit into Baskets
     For longestSubstring, the input is a string, while Fruit into Baskets, input is integer.
     General Solution:
         public int solution(String s, int k) {
